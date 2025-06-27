@@ -1,7 +1,3 @@
-# Vehicles-Counting-
-Counting Vehicles for 360 Air Pollution Project
-
-
 # Vehicle Counting with YOLO
 
 This project uses a YOLO-based object detection model to count vehicles crossing user-defined lines in a video. The pipeline extracts frames, detects and tracks vehicles, and logs their crossings into a CSV file.
